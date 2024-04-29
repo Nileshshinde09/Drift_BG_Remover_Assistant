@@ -113,6 +113,10 @@ print(generator.show_all_used_names())
 generator.delete_unique_names_table()
 generator.delete_used_names_table()
 """    
+## Insert Unique Ano_Names in to the Table
+"""
+generator.insert_unique_ano_names()
+"""
 
 # Show all Tables
 """
