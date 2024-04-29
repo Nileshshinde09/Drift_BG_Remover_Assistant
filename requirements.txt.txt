@@ -1,0 +1,6 @@
+random
+pillow
+easygui
+rembg
+tqdm
+pyttsx3
