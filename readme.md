@@ -1,2 +1,5 @@
 # Drift Social Utility
-    - Author : Nilesh Shinde
+    Author : Nilesh Shinde
+
+- pip install -r requirements.txt
+- python main.py
